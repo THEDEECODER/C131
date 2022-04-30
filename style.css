@@ -1,0 +1,15 @@
+#blak{
+    color: black;
+    font-weight: bold;
+}
+h3{
+    font-weight: bolder;
+}
+body{
+    background-size: cover;}
+canvas{
+        border-radius: 5px;
+        border-width: 10px;
+        border-style: solid;
+    }
+    
